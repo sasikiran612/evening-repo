@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 file 2 description
 
 file 2 second commit description
 
 file 2 third commit description
+=======
+file 2 description
+>>>>>>> parent of d1aa858 (commit 2 msg)
